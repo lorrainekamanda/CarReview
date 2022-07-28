@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content{
+  margin-top: 50px;
+}
+.dash{
+  text-align: left;
+}
+.card-dash{
+  max-width: 300px;
+}
+.name-col{
+  text-align: center;
+}
+.name{
+  height: 40px;
+  background-color: rgb(252, 217, 174);
+}
+.img-col{
+  margin-top:20px;
+  margin-left: 5px;
+}
